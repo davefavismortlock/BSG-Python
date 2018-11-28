@@ -1,0 +1,88 @@
+
+
+UNISON 2.27.57 started propagating changes at 20:22:39 on 29 Jul 2009
+[BGN] Copying python/convert_to_cligen/doc/carrigans_weather_station.html from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Copying python/convert_to_cligen/doc/carrigans_weather_station_files from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Copying python/show_version from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/convert_to_cligen.kdevses from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/convert_to_cligen.py from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/dew_point.py from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/dew_point.pyc from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/in/carrigans.dat from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/out/out.par from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/rain.py from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/rain.pyc from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/solar_radiation.py from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/solar_radiation.pyc from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/temperature.py from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/temperature.pyc from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/utils.py from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/utils.pyc from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/wind.py from /home/davefm/progs to //home//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/wind.pyc from /home/davefm/progs to //home//home/davefm/progs
+[END] Copying python/convert_to_cligen/doc/carrigans_weather_station.html
+[END] Updating file python/convert_to_cligen/convert_to_cligen.kdevses
+[END] Updating file python/convert_to_cligen/convert_to_cligen.py
+[END] Updating file python/convert_to_cligen/dew_point.py
+[END] Updating file python/convert_to_cligen/dew_point.pyc
+[END] Updating file python/convert_to_cligen/in/carrigans.dat
+[END] Updating file python/convert_to_cligen/out/out.par
+[END] Updating file python/convert_to_cligen/rain.py
+[END] Updating file python/convert_to_cligen/rain.pyc
+[END] Updating file python/convert_to_cligen/solar_radiation.py
+[END] Updating file python/convert_to_cligen/solar_radiation.pyc
+[END] Updating file python/convert_to_cligen/temperature.py
+[END] Updating file python/convert_to_cligen/temperature.pyc
+[END] Updating file python/convert_to_cligen/utils.py
+[END] Updating file python/convert_to_cligen/utils.pyc
+[END] Updating file python/convert_to_cligen/wind.py
+[END] Updating file python/convert_to_cligen/wind.pyc
+[END] Copying python/convert_to_cligen/doc/carrigans_weather_station_files
+[END] Copying python/show_version
+UNISON 2.27.57 finished propagating changes at 20:22:42 on 29 Jul 2009
+
+
+
+
+UNISON 2.27.57 started propagating changes at 20:23:08 on 29 Jul 2009
+[BGN] Copying python/convert_to_cligen/doc/carrigans_weather_station.html from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Copying python/convert_to_cligen/doc/carrigans_weather_station_files from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Copying python/show_version from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/convert_to_cligen.kdevses from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/convert_to_cligen.py from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/dew_point.py from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/dew_point.pyc from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/in/carrigans.dat from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/out/out.par from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/rain.py from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/rain.pyc from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/solar_radiation.py from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/solar_radiation.pyc from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/temperature.py from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/temperature.pyc from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/utils.py from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/utils.pyc from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/wind.py from /home/davefm/progs to //office//home/davefm/progs
+[BGN] Updating file python/convert_to_cligen/wind.pyc from /home/davefm/progs to //office//home/davefm/progs
+[END] Copying python/convert_to_cligen/doc/carrigans_weather_station.html
+[END] Updating file python/convert_to_cligen/convert_to_cligen.kdevses
+[END] Updating file python/convert_to_cligen/convert_to_cligen.py
+[END] Updating file python/convert_to_cligen/dew_point.py
+[END] Updating file python/convert_to_cligen/dew_point.pyc
+[END] Updating file python/convert_to_cligen/in/carrigans.dat
+[END] Updating file python/convert_to_cligen/out/out.par
+[END] Updating file python/convert_to_cligen/rain.py
+[END] Updating file python/convert_to_cligen/rain.pyc
+[END] Updating file python/convert_to_cligen/solar_radiation.py
+[END] Updating file python/convert_to_cligen/solar_radiation.pyc
+[END] Updating file python/convert_to_cligen/temperature.py
+[END] Updating file python/convert_to_cligen/temperature.pyc
+[END] Updating file python/convert_to_cligen/utils.py
+[END] Updating file python/convert_to_cligen/utils.pyc
+[END] Updating file python/convert_to_cligen/wind.py
+[END] Updating file python/convert_to_cligen/wind.pyc
+[END] Copying python/convert_to_cligen/doc/carrigans_weather_station_files
+[END] Copying python/show_version
+UNISON 2.27.57 finished propagating changes at 20:23:10 on 29 Jul 2009
+
+

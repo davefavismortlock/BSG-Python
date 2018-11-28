@@ -1,0 +1,33 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Detrended elevation at 0:45:00</Description>
+    <UnitType>mm</UnitType>
+    <Histograms>
+      <HistItem>
+        <HistMin>-34.35379588007927</HistMin>
+        <HistMax>33.5297182738781</HistMax>
+        <BucketCount>64</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>1</Approximate>
+        <HistCounts>1|2|3|5|8|10|16|19|26|18|53|82|113|194|272|388|732|671|636|602|683|685|733|802|863|946|1050|1162|1106|1226|1134|1099|1011|893|735|540|433|273|189|120|90|60|48|30|13|8|4|1|1|1|0|1|0|0|0|0|1|0|0|0|0|0|0|0</HistCounts>
+      </HistItem>
+      <HistItem>
+        <HistMin>-34.35379588007927</HistMin>
+        <HistMax>33.5297182738781</HistMax>
+        <BucketCount>64</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>1</Approximate>
+        <HistCounts>1|2|3|5|8|10|16|19|26|18|53|82|113|194|272|388|732|671|636|602|683|685|733|802|863|946|1050|1162|1106|1226|1134|1099|1011|893|735|540|433|273|189|120|90|60|48|30|13|8|4|1|1|1|0|1|0|0|0|0|1|0|0|0|0|0|0|0</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">-34.248058319092</MDI>
+      <MDI key="STATISTICS_MAXIMUM">33.423980712891</MDI>
+      <MDI key="STATISTICS_MEAN">-7.2841330275126</MDI>
+      <MDI key="STATISTICS_MEDIAN">0</MDI>
+      <MDI key="STATISTICS_MODE">0</MDI>
+      <MDI key="STATISTICS_STDDEV">7.1896577003944</MDI>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
