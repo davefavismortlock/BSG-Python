@@ -1,8 +1,8 @@
 Example files for 'Python for Managing Your Data'
 
-This short Python course is taught at the British Society for Geomorphology's Windsor Workshop for PhD students, which is run annually at Cumberland Lodge, Windsor, UK.
+This short Python course is taught during the British Society for Geomorphology's Windsor Workshop for PhD students, which is run annually at Cumberland Lodge, Windsor, UK. For details of the 2018 workshop, see https://geomorphology.org.uk/workshops/windsor-postgraduate-workshop-2018
 
-The aim of the course is to introduce the use of the Python programming language for tackling day-to-day data management tasks, the kind of thing that I and many other geomorphologists do regularly. This includes:
+The aim of this course is to introduce the use of the Python programming language for tackling day-to-day data management tasks, the kind of thing that I and many other geomorphologists do regularly. This includes:
 * format conversion, and data extraction and manipulation, to get data out of one software package and into another: e.g. to/from spreadsheets using .csv (“Comma Separated Value”) files, conversion between common GIS formats, etc.
 * quick and easy data analysis
 * mass production of many similar graphs.
